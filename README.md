@@ -1,4 +1,4 @@
-# 🤖 Welcome to the World of Artificial Intelligence!  
+#  Welcome to the World of Artificial Intelligence!  🤖
 
 Artificial Intelligence (AI) is revolutionizing industries, transforming technology, and shaping the future. Whether you're a beginner or an aspiring AI expert, this roadmap will take you from **zero to mastery**, covering everything from fundamental concepts to advanced AI techniques.  
 
